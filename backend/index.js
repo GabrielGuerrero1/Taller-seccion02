@@ -16,7 +16,7 @@ app.get('/api/info', (req, res) => {
     status: 'ok',
     integrantes: [
       {
-        carnet: '00000000',
+        carnet: '00112824',
         nombre: 'Gabriel Guerrero',
         ciudad: 'San Salvador',
         carrera: 'Ingeniería en Sistemas',
